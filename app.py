@@ -5,7 +5,7 @@ import streamlit as st
 from dotenv import load_dotenv
 import langchain
 from langchain_fireworks import ChatFireworks
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import WebBaseLoader

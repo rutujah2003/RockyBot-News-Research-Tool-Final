@@ -13,5 +13,3 @@ __pycache__/
 
 # API keys or secrets
 .env
-
-vector_index.pkl
