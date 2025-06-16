@@ -26,6 +26,14 @@ RockyBot is an end-to-end LLM-based web application designed for efficient and u
 
 ---
 
+## 🎥 Demo Video
+
+Watch RockyBot in action:
+
+[![Watch the demo](https://img.youtube.com/vi/ogukrskefodq1vg6rbn8/0.jpg)](https://res.cloudinary.com/dalxzrf9n/video/upload/v1750060637/ogukrskefodq1vg6rbn8.mp4)
+
+> 🔗 [Click here to watch the demo video](https://res.cloudinary.com/dalxzrf9n/video/upload/v1750060637/ogukrskefodq1vg6rbn8.mp4)
+
 ## 📦 Installation
 
 ```bash
