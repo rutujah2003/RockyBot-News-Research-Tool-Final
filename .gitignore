@@ -1,0 +1,17 @@
+# Don't upload virtual environment
+.venv/
+
+# Jupyter auto checkpoints
+.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# VS Code or IDE settings
+.idea/
+
+# API keys or secrets
+.env
+
+vector_index.pkl
