@@ -25,6 +25,12 @@ RockyBot is an end-to-end LLM-based web application designed for efficient and u
 - **Loader**: UnstructuredURLLoader from LangChain
 
 ---
+## 🖼️ Project Preview
+
+![RockyBot UI](https://res.cloudinary.com/dalxzrf9n/image/upload/v1750061018/ob3gjuofywavgrr5tlic.jpg)
+
+---
+
 
 ## 🎥 Demo Video
 
